@@ -101,7 +101,7 @@ int main() {
 
 冯.诺依曼体系由五大构件组成
 
-![Von_Neumann_Architecture.svg](image\Von_Neumann_Architecture.png)
+![Von_Neumann_Architecture.svg](image/Von_Neumann_Architecture.png)
 
 - 运算器:进行算数运算与逻辑运算
 - 控制器：读取指令并控制运算器运算
@@ -111,7 +111,7 @@ int main() {
 
 现代计算机的组织结构
 
-![v2-15c7328be8415b48684a1bc5972daff3_1440w](image\v2-15c7328be8415b48684a1bc5972daff3.webp)
+![v2-15c7328be8415b48684a1bc5972daff3_1440w](image/v2-15c7328be8415b48684a1bc5972daff3.webp)
 
 不同点
 
