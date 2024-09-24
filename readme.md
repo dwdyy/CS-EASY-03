@@ -39,9 +39,9 @@ int main(){
 
 在这里 $malloc$ 返回申请内存块的指针(void*)类型，将它转化为 $int*$ 类型来使用
 
-$N * sizeof(int) $ 是内存块大小
+ $ N * sizeof(int)$ 是内存块大小
 
-$free$ 是释放分配内存
+ $free$ 是释放分配内存
 
 > 为什么要对程序使用的内存进行管理？
 
@@ -101,7 +101,7 @@ int main() {
 
 冯.诺依曼体系由五大构件组成
 
-![Von_Neumann_Architecture.svg](image\Von_Neumann_Architecture.svg.png)
+![Von_Neumann_Architecture.svg](image\Von_Neumann_Architecture.png)
 
 - 运算器:进行算数运算与逻辑运算
 - 控制器：读取指令并控制运算器运算
