@@ -111,7 +111,7 @@ int main() {
 
 现代计算机的组织结构
 
-![v2-15c7328be8415b48684a1bc5972daff3_1440w](image\v2-15c7328be8415b48684a1bc5972daff3_1440w.webp)
+![v2-15c7328be8415b48684a1bc5972daff3_1440w](image\v2-15c7328be8415b48684a1bc5972daff3.webp)
 
 不同点
 
